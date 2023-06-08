@@ -2,4 +2,4 @@ packages:
  - package: snowplow/snowplow_web
    version: 0.14.1
  - package: snowplow/snowplow_mobile
-   version: 0.5.1
+   version: 0.7.0
